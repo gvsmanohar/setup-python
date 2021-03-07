@@ -5,3 +5,5 @@ rules:
   line-length:
     max: 120
     level: warning
+- name: Setup Python
+  uses: actions/setup-python@v2
